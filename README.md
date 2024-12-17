@@ -1,4 +1,5 @@
-<h1 align="center">Hello! I'm Voxxie</h1>
+<h1 align="center">👋 Hello! I'm Voxxie!</h1>
+<h2 align="center">👩‍💻 Get to know me a little!</h2>
 
 ```javascript
 const voxxie = {
@@ -15,7 +16,7 @@ const voxxie = {
 };
 ```
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">⚒️ My Languages and Tools</h2>
 <p align="center"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -49,7 +50,7 @@ const voxxie = {
   </a> 
 </p>
 
-<h2 align="center">My Github Stats</h2>
+<h2 align="center">📊 My Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msvoxxie&show_icons=true&locale=en&layout=compact&theme=dracula&bg_color=00000000&hide_border=true" alt="msvoxxie" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=msvoxxie&show_icons=true&locale=en&theme=dracula&bg_color=00000000&hide_border=true" alt="msvoxxie" /></p>
 
