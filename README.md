@@ -13,7 +13,6 @@ const voxxie = {
   platforms: ["Linux", "Windows"],
   editor: "Visual Studio Code",
   skills: ["IT", "Problem Solving", "Learning"],
-  favoriteGames: ["Final Fantasy XIV", "Team Fortress 2", "The Finals", "Garry's Mod"],
   funFact: "I learned programming from Garry's Mod in 2015.",
   challenge: "To learn something new every day."
 };
