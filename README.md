@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello!&fontSize=60&fontAlignY=40&desc=I'm%20Voxxie!&descSize=25&descAlignY=70&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello!&fontSize=60&fontAlignY=55&desc=I'm%20Voxxie!&descSize=25&descAlignY=85&height=110&section=header"/>
 </p>
 
 <h2>👩‍💻 A Little Bit About Me and My Interests</h2>
@@ -41,5 +41,5 @@ const voxxie = {
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=msvoxxie&show_icons=true&locale=en&theme=dracula&bg_color=00000000&hide_border=true" alt="msvoxxie" /></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=110&section=footer"/>
 </p>
