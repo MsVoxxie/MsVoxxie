@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello!&fontSize=60&fontAlignY=40&desc=I'm%20Voxxie!&descSize=25&descAlignY=70&height=100&section=header"/>
 </p>
 
 <h2>👩‍💻 A Little Bit About Me and My Interests</h2>
