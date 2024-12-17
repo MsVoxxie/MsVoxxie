@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h2> 👩‍💻A Little Bit About Me and My Interests</h2>
+<h2>👩‍💻 A Little Bit About Me and My Interests</h2>
 
 ```javascript
 const voxxie = {
@@ -20,7 +20,7 @@ const voxxie = {
 ```
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> ⚙️ Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
@@ -36,7 +36,7 @@ const voxxie = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
 
-<h2 align="center">📊 My Github Stats</h2>
+<h2 align="left">📊 My Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msvoxxie&show_icons=true&locale=en&layout=compact&theme=dracula&bg_color=00000000&hide_border=true" alt="msvoxxie" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=msvoxxie&show_icons=true&locale=en&theme=dracula&bg_color=00000000&hide_border=true" alt="msvoxxie" /></p>
 
